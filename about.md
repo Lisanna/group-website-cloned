@@ -2,7 +2,7 @@
 
 ## Project
 
-This research project is all about teaching you how to create websites with GitHub Pages.
+{{ site.description }}
 
 ## Cite us
 
@@ -12,5 +12,5 @@ You can cite the project as:
 
 ## Contact us
 
-- Email: [team@carpentries.org](mailto:team@carpentries.org)
+- Email: [team@carpentries.org](mailto:{{ site.email }})
 - Twitter: [@thecarpentries](https://twitter.com/thecarpentries)
