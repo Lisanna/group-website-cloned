@@ -10,7 +10,7 @@ This paragraph is separated from the previous one by a blank line.
 Line breaks
 are caused two trailing spaces at the of a line.
 
-[Carpentries Webpage](https://carpentries.org)
+[Carpentries Webpage][carpentries]
 
 ### Carpentries Lesson Programs:
 - Software Carpentry
@@ -29,3 +29,6 @@ You can find this lesson [here](https://carpentries-incubator.github.io/jekyll-p
 4. We ~~don't~~ use it in The Carpentries
 
 ![Carpentries logo](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png)
+[Carpentries Webpage][carpentries]
+
+[carpentries]: https://carpentries.org
